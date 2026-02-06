@@ -1,0 +1,13 @@
+Context API – Steps
+
+main.jsx me function se upar Context initialize kiya using createContext.
+
+App component ko Context.Provider ke andar wrap kiya.
+
+Provider ke value me jo bhi global state aur functions chahiye the, wo pass kiye.
+
+Jis component me data chahiye tha, wahan Context ko import kiya.
+
+useContext hook use karke value ko access kiya.
+
+useContext se milne wali value ko destructure karke state aur functions use kiye.
