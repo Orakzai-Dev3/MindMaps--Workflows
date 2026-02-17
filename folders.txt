@@ -1,0 +1,18 @@
+```
+frontend/
+│
+└── src/
+    ├── components/
+    │   btn.jsx
+    ├── pages/
+    │    home.jsx
+    |    about.jsx
+    ├── services/
+    │    Api.js
+    ├── store/
+    │    redux/
+    ├── hooks/
+    │   custom hooks
+    └── router/
+    | routes.jsx
+```
